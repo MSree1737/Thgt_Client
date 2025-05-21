@@ -4,7 +4,7 @@ import TotalBlog from './Blog/TotalBlog';
 import Body_sigin from './SignIn/Body';
 import Body_signup from './SignUp/Body_signup';
 import TotalHome from "./Home/TotalHome";
-import Total_ReadBlog from './ReadBlog/total_ReadBlog';
+import Total_ReadBlog from './ReadBlog/Total_ReadBlog';
 import NewBlog from './NewBlog/NewBlog';
 import Profile from './profile/Profile';
 import TotalEdit from './EditBlog/TotalEdit';
